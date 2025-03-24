@@ -1,0 +1,79 @@
+
+.flex{
+    display: flex;
+}
+
+.border{
+    border: 1px solid  red;
+    margin: 3px;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.align-center{
+    align-items: center;
+}
+
+.bg-black{
+    background-color: black;
+    color: white;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.bg-grey{
+    background-color: #121212;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 5px;
+}
+.m-1forhom{
+    margin: 15px;
+}
+
+
+.p-1{
+    padding: 10px;
+}
+/* Webkit Browsers (Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+    width: 8px; /* Default width */
+    transition: width 0.3s ease-in-out;
+}
+
+::-webkit-scrollbar-track {
+    background: #1a1a1a; /* Dark background */
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #444; /* Dark gray scrollbar */
+    border-radius: 5px;
+}
+
+/* Make scrollbar bolder on hover */
+::-webkit-scrollbar:hover {
+    width: 14px; /* Increases width */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #666; /* Slightly lighter on hover */
+}
+
+/* For Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #444 #1a1a1a;
+}
+
+/* Make scrollbar bolder on hover in Firefox */
+*::-moz-scrollbar-thumb:hover {
+    scrollbar-width: auto;
+}
