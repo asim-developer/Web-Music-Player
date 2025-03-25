@@ -1,4 +1,13 @@
 {
     "title":"Classic Phonks",
-    "description":" Dark, Memphis-inspired, gritty, underground, distorted, energetic, vintage, raw Music"
+    "description":" Dark, Memphis-inspired, gritty, underground, distorted, energetic, vintage, raw Music",
+    "songs": [
+        {
+            "name": "Masha Funk",
+            "url": "Masha Funk.mp3"
+        }
+ 
+    
+],
+"cover": "cover.jpg"
 }

@@ -1,6 +1,44 @@
 {
     "title":"Trap Phonk",
-    "description":"Dark, bass-heavy, energetic, distorted, fast-paced, eerie, hypnotic Phonks For You 🔥🎶🚗"}
+    "description":"Dark, bass-heavy, energetic, distorted, fast-paced, eerie, hypnotic Phonks For You 🔥🎶🚗",
+
+    "songs": [
+
+        {
+            "name": "Brazil-Phonk",
+            "url": "Brazil-Phonk.mp3"
+        },
+        {
+            "name": "brazilian-funk",
+            "url": "brazilian-funk.mp3"
+        },
+        {
+            "name": "Chinese-funk",
+            "url": "Chinese-funk.mp3"
+        },
+      
+        {
+            "name": "Funk",
+            "url": "Funk.mp3"
+        },
+      
+        {
+            "name": "insian-funk",
+            "url": "insian-funk.mp3"
+        },
+       
+        {
+            "name": "Masha-Ultrafunk",
+            "url": "Masha-Ultrafunk.mp3"
+        },
+        {
+            "name": "Mexican-Phonk",
+            "url": "Mexican-Phonk.mp3"
+        }
+      
+    ],
+    "cover": "cover.jpg"
+}
 
 
 

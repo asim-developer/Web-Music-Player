@@ -1,5 +1,37 @@
 {
     "title":"Arijit Singh",
-    "description":"Soulful, emotional, romantic, melodious, heartfelt, versatile, soothing. Music For You 🎶❤️"}
+    "description":"Soulful, emotional, romantic, melodious, heartfelt, versatile, soothing. Music For You 🎶❤️",
+    "songs": [
+        {
+            "name": "brazilian-funk",
+            "url": "brazilian-funk.mp3"
+        },
+        {
+            "name": "Brazil-Phonk",
+            "url": "Brazil-Phonk.mp3"
+        },
+        {
+            "name": "Chinese-funk",
+            "url": "Chinese-funk.mp3"
+        },
+        {
+            "name": "insian-funk",
+            "url": "insian-funk.mp3"
+        },
+        {
+            "name": "Masha Funk",
+            "url": "Masha Funk.mp3"
+        },
+        {
+            "name": "Masha-Ultrafunk",
+            "url": "Masha-Ultrafunk.mp3"
+        },
+        {
+            "name": "Mexican-Phonk",
+            "url": "Mexican-Phonk.mp3"
+        }
+    ],
+    "cover": "cover.jpg"
+}
 
 

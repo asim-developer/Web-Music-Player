@@ -1,4 +1,37 @@
 {
     "title":"Honey Singh",
-    "description":"Party anthems, desi hip-hop, energetic, catchy, commercial, club beats and  bold Music For You"
+    "description":"Party anthems, desi hip-hop, energetic, catchy, commercial, club beats and  bold Music For You",
+
+    "songs": [
+      
+        {
+            "name": "Funk",
+            "url": "Funk.mp3"
+        },
+     
+        {
+            "name": "insian-funk",
+            "url": "insian-funk.mp3"
+        },
+       
+        {
+            "name": "Masha Funk",
+            "url": "Masha Funk.mp3"
+        },
+        {
+            "name": "Masha-Ultrafunk",
+            "url": "Masha-Ultrafunk.mp3"
+        },
+        {
+            "name": "Mexican-Phonk",
+            "url": "Mexican-Phonk.mp3"
+        },
+        {
+            "name": "Phonk",
+            "url": "Phonk.mp3"
+        }
+      
+    ],
+    "cover": "cover.jpg"
+
 }

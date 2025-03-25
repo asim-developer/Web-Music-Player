@@ -1,4 +1,30 @@
 {
     "title":"Alan Walker",
-    "description":" Melodic, futuristic, emotional, uplifting, cinematic, electronic and atmospheric Music"
+    "description":" Melodic, futuristic, emotional, uplifting, cinematic, electronic and atmospheric Music",
+
+    "songs": [
+      
+        {
+            "name": "Masha-Ultrafunk",
+            "url": "Masha Funk.mp3"
+        },
+      
+        {
+            "name": "Mexican-Phonk",
+            "url": "Mexican-Phonk.mp3"
+        },
+        {
+            "name": "Phonk",
+            "url": "Phonk.mp3"
+        },
+        {
+            "name": "spanish-funk",
+            "url": "spanish-funk.mp3"
+        },
+        {
+            "name": "Ultrafunk",
+            "url": "Ultrafunk.mp3"
+        }
+    ],
+    "cover": "cover.jpg"
 }

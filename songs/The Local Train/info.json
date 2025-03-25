@@ -1,6 +1,33 @@
 {
     "title":"The Local Train",
-    "description":"Energetic, soulful, rock, indie, poetic, nostalgic, emotional.Music For You 🎸🎶🔥"}
+    "description":"Energetic, soulful, rock, indie, poetic, nostalgic, emotional.Music For You 🎸🎶🔥",
+    "songs": [
+        
+         
+       
+        {
+            "name": "Masha-Ultrafunk",
+            "url": "Masha-Ultrafunk.mp3"
+        },
+        {
+            "name": "Mexican-Phonk",
+            "url": "Mexican-Phonk.mp3"
+        },
+        {
+            "name": "Phonk",
+            "url": "Phonk.mp3"
+        },
+        {
+            "name": "spanish-funk",
+            "url": "spanish-funk.mp3"
+        },
+        {
+            "name": "Ultrafunk",
+            "url": "Ultrafunk.mp3"
+        }
+    ],
+    "cover": "cover.jpg"
+}
 
 
 

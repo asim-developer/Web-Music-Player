@@ -1,6 +1,32 @@
 {
     "title":"Drift/Hard Phonk",
-    "description":" Aggressive, distorted, bass-heavy, dark, intense, fast-paced, adrenaline-pumping, underground. Phonks For You"}
+    "description":" Aggressive, distorted, bass-heavy, dark, intense, fast-paced, adrenaline-pumping, underground. Phonks For You",
+    "songs": [
+        {
+            "name": "Brazil-Phonk",
+            "url": "Brazil-Phonk.mp3"
+        },
+        {
+            "name": "brazilian-funk",
+            "url": "brazilian-funk.mp3"
+        },
+    
+      
+        {
+            "name": "Chinese-funk",
+            "url": "Chinese-funk.mp3"
+        },
+        {
+            "name": "Funk",
+            "url": "Funk.mp3"
+        },
+        {
+            "name": "Masha Funk",
+            "url": "Masha Funk.mp3"
+        }
+    ],
+    "cover": "cover.jpg"
+}
 
 
 

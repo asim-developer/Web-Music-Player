@@ -1,6 +1,25 @@
 {
     "title":"Anuv Jain",
-    "description":"Soothing, acoustic, soulful, poetic, nostalgic, heartfelt, melodic. Music For You 🎶💙"
+    "description":"Soothing, acoustic, soulful, poetic, nostalgic, heartfelt, melodic. Music For You 🎶💙",
+
+    "songs": [
+        {
+            "name": "Masha-Ultrafunk",
+            "url": "Masha-UltraFunk.mp3"
+        },
+      
+        {
+            "name": "Mexican-Phonk",
+            "url": "Mexican-Phonk.mp3"
+        },
+        {
+            "name": "Phonk",
+            "url": "Phonk.mp3"
+        }
+      
+    ],
+    "cover": "cover.jpg"
+
 }
 
 
